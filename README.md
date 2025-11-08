@@ -93,5 +93,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 ### 👨‍💻 Author
-**mahtab89(https://github.com/mahtab89**  
+**Mahtab Yasin https://github.com/mahtab89**  
 Made with ❤️ in Java.
