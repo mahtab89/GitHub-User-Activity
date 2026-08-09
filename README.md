@@ -34,8 +34,8 @@ and parses the returned JSON to show readable activity logs.
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/github-user-activity.git
-cd github-user-activity
+git clone https://github.com/mahtab89/GitHub-User-Activity.git
+cd GitHub-User-Activity
 ```
 
 ### 2️⃣ Build the JAR (using Gradle wrapper)
